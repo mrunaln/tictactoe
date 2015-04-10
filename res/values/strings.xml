@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string-array name="ExploreMenu">
+        <item>Register</item>
+        <item>Login</item>
+        <item>Schools</item>
+        <item>Parks</item>
+        <item>Golf Course</item>
+        <item> Hospitals</item>
+        <item>Recycling Center</item>
+        <item>Police stations</item>
+        <item> Fire Station</item>
+        <item>Logout</item>
+    </string-array>
+</resources>
