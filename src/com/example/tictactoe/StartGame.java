@@ -14,6 +14,31 @@ public class StartGame extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+
+
+        /*
+
+        Init game()
+        draw_board()
+        play_game()
+            Keep doing till all tiles are owned
+
+                if win then stop
+                else Record human move ()
+                     draw_human_move
+
+                if win then stop
+                else Record computers_move{
+                    find_human_win
+                    Block_win
+                    find_my_win()
+                        play_winner()
+                    choose_move ()
+
+                draw_computer_move()
+                }
+
+        */
     }
 
     /*
